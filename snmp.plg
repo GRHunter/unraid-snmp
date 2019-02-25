@@ -19,7 +19,7 @@
 <!ENTITY libnlpkgmd5 "d84d8545760ed7d71bce77b7ef5a86aa">
 
 <!ENTITY iconfile    "snmp.png">
-<!ENTITY iconfilemd5 "eea3bf89144d2b493a8c73889fb3a457">
+<!ENTITY iconfilemd5 "be7dfbb3fe0bbda29758a88a740c3833">
 
 <!ENTITY community   "public">
 <!ENTITY location    "Here">
