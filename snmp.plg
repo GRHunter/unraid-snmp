@@ -34,8 +34,8 @@
 <CHANGES>
 ##&name;
 
-###2018.07.22
-- Updated packages
+###2019.02.25
+- Updated snmp and libnl packages. New monochrome icon.
 
 ###2018.07.22
 - Fix bug with grep and "mostfree" allocator. https://github.com/coppit/unraid-snmp/pull/1
