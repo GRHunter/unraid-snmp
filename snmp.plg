@@ -250,7 +250,7 @@ The 'post-install' script.
 echo ""
 echo "-----------------------------------------------------------"
 echo " &name; has been installed."
-echo " Copyright 2015, David Coppit &lt;david@coppit.org&gt;"
+echo " Copyright 2019, Gary Hunter &lt;Gary-Hunter@Outlook.com&gt;"
 echo " Version: &version;"
 echo "-----------------------------------------------------------"
 echo ""
