@@ -2,18 +2,18 @@
 
 <!DOCTYPE PLUGIN [
 <!ENTITY name        "snmp">
-<!ENTITY author      "coppit">
-<!ENTITY version     "2018.07.22">
-<!ENTITY pluginURL   "https://github.com/coppit/unraid-snmp/raw/master/snmp.plg">
-<!ENTITY pkgversion  "5.7.3">
+<!ENTITY author      "GHunter2">
+<!ENTITY version     "2019.02.25">
+<!ENTITY pluginURL   "https://github.com/GHunter2/unraid-snmp/raw/master/snmp.plg">
+<!ENTITY pkgversion  "5.8">
 <!ENTITY gitURL      "https://raw.githubusercontent.com/&author;/unraid-snmp/master">
 <!ENTITY plugdir     "/usr/local/emhttp/plugins/&name;">
-<!ENTITY pkgdir      "/boot/packages">
+<!ENTITY pkgdir      "/boot/extra">
 <!ENTITY cfgdir      "/boot/config/plugins/&name;">
 <!ENTITY pkghost     "&gitURL;/packages">
 
 <!ENTITY snmppkg     "net-snmp-&pkgversion;-x86_64-4.txz">
-<!ENTITY snmppkgmd5  "b9ef68216b97cb5f0bcd9f3312e5941e">
+<!ENTITY snmppkgmd5  "119ecee76951c11d782f077c7a89826e">
 
 <!ENTITY libnlpkg    "libnl-1.1.4-x86_64-1.txz">
 <!ENTITY libnlpkgmd5 "435837a5bf0401a937d6ec93e458333b">
@@ -33,6 +33,9 @@
 
 <CHANGES>
 ##&name;
+
+###2018.07.22
+- Updated packages
 
 ###2018.07.22
 - Fix bug with grep and "mostfree" allocator. https://github.com/coppit/unraid-snmp/pull/1
