@@ -2,11 +2,11 @@
 
 <!DOCTYPE PLUGIN [
 <!ENTITY name        "snmp">
-<!ENTITY author      "GRHunter">
+<!ENTITY author      "Gary Hunter">
 <!ENTITY version     "2019.02.25">
 <!ENTITY pluginURL   "https://github.com/GRHunter/unraid-snmp/raw/master/snmp.plg">
 <!ENTITY pkgversion  "5.8">
-<!ENTITY gitURL      "https://raw.githubusercontent.com/&author;/unraid-snmp/master">
+<!ENTITY gitURL      "https://raw.githubusercontent.com/GRHunter/unraid-snmp/master">
 <!ENTITY plugdir     "/usr/local/emhttp/plugins/&name;">
 <!ENTITY pkgdir      "/boot/extra">
 <!ENTITY cfgdir      "/boot/config/plugins/&name;">
